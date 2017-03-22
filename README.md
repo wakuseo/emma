@@ -1,0 +1,2 @@
+# emma
+A to - do lists app. But it can be extended in all sorts of ways- different persistence models, adding deadline, reminders, sharing with other users, and improving the client-side UI. There is no resaon to be limited to justo "to-do" lists either; they could be any kind of lists. But the point is that is should allow me demostrate all aspects of web programming, and how you apply TDD to them.
