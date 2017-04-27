@@ -1,0 +1,9 @@
+[33m130964c[m Basic view now returns minimal HTML
+[33mb206e47[m First unit test and url mapping, dummy view
+[33mcbc6678[m First unit test and url mapping, dummy view
+[33m059b113[m Add app for lists, with deliberatly failing unit test!
+[33m35c3a73[m I expanded the functional test to include comments that describe the task i'm setting myself, to Emma's minimum viable to-do list.
+[33me0587a0[m first pull from emma Merge branch 'master' of https://github.com/wakuseo/emma
+[33m4104d30[m changes mad to ignore
+[33m1ea1532[m Initial commit
+[33m9cee64d[m First commit: first FT and basic djjango config
