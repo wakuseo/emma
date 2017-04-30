@@ -14,7 +14,7 @@ class HomePageTest(TestCase):
         response = self.client.get('/')
 
         self.assertIn('itemey 1', response.content.decode())
-        self.assertIn('itemey 2', response.content.decde())
+        self.assertIn('itemey 2', response.content.decode())
 
     def test_uses_home_template(self):
         response = self.client.get('/')
